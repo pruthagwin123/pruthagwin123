@@ -2,26 +2,20 @@
 
 <img src="assets/banner.png" alt="Banner" width="100%" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FF&center=true&vCenter=true&width=430&lines=Java+Developer;Full+Stack+Developer;Cloud+Enthusiast;Building+Practical+Software;Always+Learning+🚀"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Cloud+Enthusiast;Building+Practical+Software;Always+Learning"
+  alt="Typing SVG"
+/>
 
 </div>
-
-# 👋 Hi, I'm Pruthagwin Challuri
-
-I'm a **Computer Science student** passionate about **Java, Backend Development, Cloud Computing, and Full Stack Development**.
-
-I enjoy building practical software, solving real-world problems, and continuously improving my skills through projects and Data Structures & Algorithms.
-
-> *"Engineering ideas into reliable software, one project at a time."*
-
 ---
 
 # 💡 About Me
 
 - 🎓 B.Tech CSE Student at **SR University**
-- ☕ Java Backend Developer
+- ☕ Java  Developer
 - 🌐 MERN Stack Developer
 - ☁️ AWS Cloud Enthusiast
 - 🧠 Passionate about Data Structures & Algorithms
@@ -161,18 +155,26 @@ https://github.com/pruthagwin123/feedbackpolling
 
 # 📈 GitHub Analytics
 
+# 📈 GitHub Analytics
+
 <p align="center">
+  <!--
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pruthagwin123&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthagwin123&theme=tokyonight&hide_border=true"/>
+  -->
+
+  <img width="48%" src="https://streak-stats.demolab.com?user=pruthagwin123&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
+  <!--
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthagwin123&layout=compact&theme=tokyonight&hide_border=true"/>
+  -->
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pruthagwin123&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
 
 # 💻 LeetCode
